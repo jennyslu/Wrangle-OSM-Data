@@ -1,0 +1,5 @@
+defaultdict(<class 'int'>,
+            {'NHS': 74,
+             'UNIT': 13,
+             'VACANT': 656,
+             'subdi1name': 59})
